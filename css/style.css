@@ -741,13 +741,13 @@ footer {
   }
 
   .logo-long {
-    width: 75px;
-    height: 25px; 
+    width: 45px;
+    height: 15px; 
   }
 
   .logo-short {
-    width: 25px;
-    height: 25px;
+    width: 15px;
+    height: 15px;
   }
 
   #intro { height: 65vh; }
@@ -774,13 +774,13 @@ footer {
   }
 
   .logo-long {
-    width: 75px;
-    height: 25px; 
+    width: 45px;
+    height: 15px; 
   }
 
   .logo-short {
-    width: 25px;
-    height: 25px;
+    width: 15px;
+    height: 15px;
   }
 
   #overview img,
@@ -818,13 +818,13 @@ footer {
   }
 
   .logo-long {
-    width: 75px;
-    height: 25px; 
+    width: 45px;
+    height: 15px; 
   }
 
   .logo-short {
-    width: 25px;
-    height: 25px;
+    width: 15px;
+    height: 15px;
   }
 
 }
