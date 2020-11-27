@@ -252,6 +252,7 @@ footer {
     }
     .custom-navbar.top-nav-collapse {
         background: #101010;
+        vertical-align: middle;
         padding: 10px;
     }
 
@@ -259,6 +260,16 @@ footer {
       transform: translateX(-50%);
       left: 50%;
       position: absolute;
+    }
+
+    .logo-long {
+      width: 80px;
+      height: 30px; 
+    }
+
+    .logo-short {
+      width: 30px;
+      height: 30px;
     }
 }
 
@@ -726,7 +737,17 @@ footer {
   }
 
   .navbar-logo {
-    padding: 10px;
+    padding: 15px;
+  }
+
+  .logo-long {
+    width: 75px;
+    height: 25px; 
+  }
+
+  .logo-short {
+    width: 25px;
+    height: 25px;
   }
 
   #intro { height: 65vh; }
@@ -746,6 +767,20 @@ footer {
 
   .custom-navbar .navbar-brand {
     line-height: 20px;
+  }
+
+  .navbar-logo {
+    padding: 15px;
+  }
+
+  .logo-long {
+    width: 75px;
+    height: 25px; 
+  }
+
+  .logo-short {
+    width: 25px;
+    height: 25px;
   }
 
   #overview img,
@@ -776,6 +811,20 @@ footer {
 
   #intro {
     height: 100vh;
+  }
+
+  .navbar-logo {
+    padding: 15px;
+  }
+
+  .logo-long {
+    width: 75px;
+    height: 25px; 
+  }
+
+  .logo-short {
+    width: 25px;
+    height: 25px;
   }
 
 }
